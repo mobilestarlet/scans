@@ -33,6 +33,12 @@ var calls = {
             arm: true
         }
     },
+    authorizationService: {
+        roleDefinitions: {
+            api: "AuthorizationManagementClient",
+            arm: true
+        }
+    },
     storageAccounts: {
         list: {
             api: "StorageManagementClient",

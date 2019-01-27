@@ -16,6 +16,7 @@ module.exports = {
 	resourceGroups: ['East US', 'West US'],
 	storageAccounts: ['East US', 'West US'],
 	BlobService: ['East US', 'West US'],
+	AuthorizationService: ['East US', 'West US'],
 	FileService: ['East US', 'West US'],
 	QueueService: ['East US', 'West US'],
 	TableService: ['East US', 'West US'],
